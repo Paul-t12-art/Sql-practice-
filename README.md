@@ -1,55 +1,12 @@
-SELECT setval('orders_order_id_seq', (SELECT MAX(order_id) FROM orders));
-SELECT COUNT(*) FROM orders;
+# Meridian Retail Group: End-to-End Sales & Customer Analytics
 
-SELECT
-    customer.customer_name,
-    SUM(orders.amount) AS total_spent
-FROM orders
-JOIN customer ON orders.customer_id = customer.customer_id
-GROUP BY customer.customer_name
-ORDER BY total_spent DESC;
+A full data analytics pipeline built on a simulated retail dataset, covering data cleaning, relational analysis, and executive dashboarding.
 
-SELECT
-    product,
-    COUNT(*) AS times_ordered,
-    SUM(amount) AS total_revenue
-FROM orders
-GROUP BY product
-ORDER BY total_revenue DESC;
+**Stack:** Python (pandas), PostgreSQL, Power BI
 
-SELECT
-    customer.customer_name,
-    SUM(orders.amount) AS total_spent
-FROM orders
-JOIN customer ON orders.customer_id = customer.customer_id
-GROUP BY customer.customer_name
-HAVING SUM(orders.amount) > 1000
-ORDER BY total_spent DESC;
+**What this project does:**
+- Cleans a messy, real-world-style sales dataset (duplicates, inconsistent formatting, missing values, data entry errors) using pandas
+- Loads the cleaned data into PostgreSQL and answers key business questions with SQL (revenue trends, regional and category performance, customer concentration, churn risk, channel performance)
+- Visualizes the results in an interactive Power BI executive dashboard
 
-
-SELECT
-    EXTRACT(YEAR FROM order_date) AS order_year,
-    SUM(amount) AS total_revenue
-FROM orders
-GROUP BY order_year
-ORDER BY order_year;
-
-SELECT
-    DATE_TRUNC('month', order_date) AS order_month,
-    SUM(amount) AS total_revenue
-FROM orders
-GROUP BY order_month
-ORDER BY order_month;
-
-SELECT
-    orders.order_id,
-    customer.customer_name,
-    customer.city,
-    orders.product,
-    orders.amount,
-    TO_CHAR(orders.order_date, 'YYYY-MM-DD') AS order_date,
-    EXTRACT(YEAR FROM orders.order_date) AS order_year,
-    TO_CHAR(DATE_TRUNC('month', orders.order_date), 'YYYY-MM') AS order_month
-FROM orders
-JOIN customer ON orders.customer_id = customer.customer_id
-ORDER BY orders.order_date;
+This project simulates a real analyst workflow: raw data in, business insight out.
