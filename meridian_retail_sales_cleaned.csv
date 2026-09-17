@@ -1,0 +1,464 @@
+order_item_id,order_id,order_date,customer_id,customer_name,email,region,signup_date,channel,order_status,product_id,product_name,category,unit_price,quantity,line_total,had_discount
+9165,5093,2026-06-19,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-06-01,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9410,5228,2026-02-06,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-11-10,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,5,47500.0,False
+9072,5037,2026-06-27,1021,Janet Williams,janet.williams59@outlook.com,Abuja,2024-10-11,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
+9058,5028,2026-07-01,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9187,5104,2026-04-29,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9347,5196,2026-03-18,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9094,5051,2026-05-20,1032,Angela Cohen,angela.cohen64@yahoo.com,Lagos,,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9181,5101,2026-01-17,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Returned,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9420,5234,2026-01-20,1117,Brooke Leonard,brooke.leonard43@gmail.com,Lagos,2024-04-01,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9153,5086,2026-05-20,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Returned,115,Office Chair,Home,45000.0,2,90000.0,False
+9235,5129,2026-07-05,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,3,73500.0,False
+9163,5091,2026-03-26,1052,Erin Herrera,erin.herrera63@gmail.com,Port Harcourt,2024-11-27,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9443,5247,2026-01-09,1120,Brooke Harvey,brooke.harvey15@gmail.com,Port Harcourt,2024-01-10,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9143,5080,2026-01-20,1049,Wendy Rice,wendy.rice78@gmail.com,Port Harcourt,2025-06-03,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,5621.0,True
+9008,5005,2026-07-08,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-09-07,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,4,20800.0,False
+9156,5088,2026-03-18,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9467,5260,2026-05-31,1130,Joseph Mahoney,joseph.mahoney86@outlook.com,Abuja,2026-04-01,Online,Cancelled,102,Hp Pavilion Laptop,Electronics,420000.0,2,840000.0,False
+9104,5056,2026-03-11,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9047,5024,2026-03-25,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9189,5105,2026-03-17,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9261,5144,2026-06-23,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9238,5131,2026-01-29,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9376,5211,2026-07-08,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9407,5228,2026-02-06,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-11-10,In-store,Completed,115,Office Chair,Home,45000.0,2,90000.0,False
+9428,5239,2026-01-15,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,5,55188.0,True
+9384,5215,2026-03-02,1112,Amy Adkins,amy.adkins35@yahoo.com,Port Harcourt,2024-06-08,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9033,5018,2026-09-01,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9288,5161,2026-06-09,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,2,840000.0,False
+9438,5244,2026-08-09,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,107,Memory Foam Pillow,Home,9500.0,5,47500.0,False
+9221,5122,2026-08-09,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9126,5068,2026-05-21,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9242,5134,2026-05-04,1069,Chad Hodges,chad.hodges70@gmail.com,Abuja,2024-08-07,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,3,46500.0,False
+9045,5023,2026-08-28,1011,Linda Wolfe,linda.wolfe28@yahoo.com,Abuja,2024-06-08,Online,Returned,108,Led Desk Lamp,Home,7200.0,2,14400.0,False
+9282,5158,2026-06-25,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9049,5025,2026-05-06,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9127,5068,2026-05-21,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9247,5137,2026-07-26,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,2,31000.0,False
+9215,5119,2026-05-25,1062,Kimberly Moreno,kimberly.moreno58@gmail.com,Abuja,2025-06-13,Online,Returned,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9301,5169,2026-03-12,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9051,5026,2026-05-02,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9119,5063,2026-01-18,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,115,Office Chair,Home,45000.0,2,90000.0,False
+9122,5066,2026-04-03,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,23600.0,False
+9457,5256,2026-04-14,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,370000.0,False
+9085,5044,2026-06-19,1026,Mitchell Clark,mitchell.clark60@yahoo.com,Lagos,2024-06-16,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9329,5185,2026-04-19,1090,Rodney Owens,rodney.owens41@gmail.com,Lagos,2026-02-04,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9246,5136,2026-10-07,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,108,Led Desk Lamp,Home,7200.0,3,21600.0,False
+9328,5184,2026-06-23,1090,Rodney Owens,rodney.owens41@gmail.com,Lagos,2026-02-04,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9114,5062,2026-09-09,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9371,5208,2026-08-03,1105,Nicholas Galloway,nicholas.galloway45@gmail.com,Abuja,2024-05-15,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,4,663674.0,True
+9337,5191,2026-03-21,1095,James West,james.west73@gmail.com,Abuja,2024-05-02,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9212,5116,2026-08-13,1057,Vincent White,vincent.white71@gmail.com,Port Harcourt,2025-05-01,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9007,5004,2026-01-28,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-09-07,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,3,43500.0,False
+9207,5113,2026-01-23,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Cancelled,102,Hp Pavilion Laptop,Electronics,420000.0,5,2100000.0,False
+9004,5003,2026-09-05,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-09-07,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9234,5128,2026-06-01,1067,Natalie Arroyo,natalie.arroyo43@gmail.com,Lagos,2024-02-02,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,23600.0,False
+9192,5106,2026-03-11,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9385,5216,2026-01-05,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9173,5097,2026-05-13,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9427,5238,2026-08-22,1118,Joe Wilson,joe.wilson21@outlook.com,Port Harcourt,2024-09-25,Unknown,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9236,5129,2026-07-05,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9424,5236,2026-06-15,1118,Joe Wilson,joe.wilson21@outlook.com,Port Harcourt,2024-09-25,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9157,5089,2026-06-15,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,116335.0,True
+9050,5026,2026-05-02,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9327,5183,2026-05-28,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9280,5156,2026-01-15,1071,Thomas Pierce,thomas.pierce61@yahoo.com,Abuja,2024-09-05,Online,Cancelled,115,Office Chair,Home,45000.0,2,90000.0,False
+9178,5099,2026-07-22,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9320,5178,2026-10-08,1088,Lindsey Lee,lindsey.lee38@gmail.com,Lagos,2024-07-13,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,2,840000.0,False
+9052,5026,2026-05-02,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,5,392500.0,False
+9101,5054,2026-06-10,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9354,5200,2026-04-04,1100,Yvette Huff,yvette.huff51@gmail.com,Lagos,2024-09-28,Online,Completed,108,Led Desk Lamp,Home,7200.0,5,36000.0,False
+9449,5252,2026-01-24,1123,James Moran,james.moran6@yahoo.com,Abuja,2024-05-10,Online,Cancelled,112,Assorted Toiletries Pack,Essentials,6300.0,4,25200.0,False
+9116,5062,2026-09-09,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9209,5115,2026-01-17,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,Online,Cancelled,109,Basmati Rice 10Kg,Essentials,14500.0,3,42474.0,True
+9073,5038,2026-03-24,1021,Janet Williams,janet.williams59@outlook.com,Abuja,2024-10-11,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,3,216047.0,True
+9323,5181,2026-06-07,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9393,5220,2026-09-01,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,4,70664.0,True
+9172,5097,2026-05-13,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9378,5212,2026-07-27,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9324,5182,2026-03-26,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9003,5003,2026-09-05,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-09-07,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,10152.0,True
+9248,5137,2026-07-26,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9330,5185,2026-04-19,1090,Rodney Owens,rodney.owens41@gmail.com,Lagos,2026-02-04,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9398,5223,2026-08-24,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Returned,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9365,5205,2026-08-28,1104,Richard Brown,richard.brown28@outlook.com,Lagos,2025-07-04,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,3,34564.0,True
+9363,5203,2026-09-04,1102,Melinda Martin,melinda.martin10@gmail.com,Abuja,2026-02-08,Online,Cancelled,105,Sonic Standing Fan,Home,24500.0,3,73500.0,False
+9081,5041,2026-08-14,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9168,5096,2026-08-20,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,108,Led Desk Lamp,Home,7200.0,3,21600.0,False
+9374,5210,2026-01-31,1109,Angela Higgins,angela.higgins71@yahoo.com,Lagos,2025-11-14,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9011,5007,2026-04-08,1003,Jill Rhodes,jill.rhodes87@outlook.com,Port Harcourt,2024-04-14,In-store,Returned,107,Memory Foam Pillow,Home,9500.0,3,28500.0,False
+9210,5115,2026-01-17,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,Online,Cancelled,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9372,5209,2026-02-12,1106,Joseph Bowers,joseph.bowers37@gmail.com,Lagos,2025-01-13,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,1,54420.0,True
+9064,5032,2026-07-16,1013,Susan Rogers,susan.rogers45@outlook.com,Abuja,2026-05-17,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9065,5032,2026-07-16,1013,Susan Rogers,susan.rogers45@outlook.com,Abuja,2026-05-17,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,3,235500.0,False
+9062,5030,2026-05-23,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,13763.0,True
+9302,5169,2026-12-03,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,4,20800.0,False
+9455,5255,2026-07-25,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-06-02,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,4,128000.0,False
+9054,5027,,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9180,5101,2026-01-17,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Returned,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,335146.0,True
+9137,5076,2026-08-15,1046,Daniel Burton,daniel.burton93@outlook.com,Abuja,2024-01-04,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9082,5041,2026-08-14,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,5,147202.0,True
+9100,5053,2026-05-25,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,108,Led Desk Lamp,Home,7200.0,3,18633.0,True
+9142,5079,2026-05-24,1049,Wendy Rice,wendy.rice78@gmail.com,Port Harcourt,2025-03-06,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,2,157000.0,False
+9009,5006,2026-02-01,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-07-09,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9112,5060,2026-05-19,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9260,5143,2026-07-23,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,105,Sonic Standing Fan,Home,24500.0,5,122500.0,False
+9397,5222,2026-01-30,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9304,5171,2026-08-07,1082,Jeremy Whitehead,jeremy.whitehead31@gmail.com,Lagos,2026-02-10,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9432,5241,2026-02-03,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,23600.0,False
+9392,5220,2026-09-01,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9097,5053,2026-05-25,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,115,Office Chair,Home,45000.0,3,135000.0,False
+9086,5045,2026-04-23,1027,Joseph Zuniga,joseph.zuniga89@outlook.com,Abuja,2025-10-17,Online,Returned,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9029,5015,2026-05-05,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,8843.0,True
+9426,5237,,1118,Joe Wilson,joe.wilson21@outlook.com,Port Harcourt,2024-09-25,Unknown,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9289,5162,2026-09-02,1075,James Collins,james.collins83@gmail.com,Port Harcourt,2025-10-31,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9377,5211,2026-08-07,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9087,5046,2026-09-06,1028,Deborah Lynch,deborah.lynch42@gmail.com,Lagos,2025-12-02,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,3,1260000.0,False
+9387,5218,2026-03-13,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9400,5223,2026-08-24,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Returned,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9038,5020,2026-06-23,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,3,46500.0,False
+9270,5149,2026-06-29,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9031,5016,2026-06-14,1009,Jeffrey Lawrence,jeffrey.lawrence36@gmail.com,Abuja,2025-08-26,Online,Returned,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9203,5112,2026-10-04,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9290,5163,2026-03-04,1075,James Collins,james.collins83@gmail.com,Port Harcourt,2025-10-31,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,2,31000.0,False
+9138,5076,2026-08-15,1046,Daniel Burton,daniel.burton93@outlook.com,Abuja,2024-01-04,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9259,5142,2026-08-12,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9174,5097,2026-05-13,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9366,5205,2026-08-28,1104,Richard Brown,richard.brown28@outlook.com,Lagos,2025-07-04,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,370000.0,False
+9342,5193,2026-06-13,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9343,5194,2026-05-28,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,Online,Returned,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9175,5098,2026-03-02,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,4,128000.0,False
+9379,5212,2026-07-27,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9155,5087,2026-07-14,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,115,Office Chair,Home,45000.0,3,126090.0,True
+9333,5187,2026-06-13,1092,Tracey Garcia,tracey.garcia8@outlook.com,Port Harcourt,2024-06-10,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5085.0,True
+9016,5009,2026-12-01,1005,Robert Johnson,robert.johnson12@gmail.com,Lagos,2024-01-31,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,6764.0,True
+9405,5226,2026-04-03,1114,Wesley Farrell,wesley.farrell82@yahoo.com,Lagos,2025-12-04,Online,Returned,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9373,5209,2026-02-12,1106,Joseph Bowers,joseph.bowers37@gmail.com,Lagos,2025-01-13,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9037,5019,2026-03-07,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9176,5099,2026-07-22,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,108,Led Desk Lamp,Home,7200.0,3,21600.0,False
+9196,5109,2026-08-09,1055,Shawn Mckay,shawn.mckay63@gmail.com,Lagos,2026-01-19,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,3,96000.0,False
+9402,5224,2026-08-19,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,107,Memory Foam Pillow,Home,9500.0,3,28500.0,False
+9264,5145,2026-08-25,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Returned,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9108,5058,2026-06-22,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,4,1680000.0,False
+9331,5185,2026-04-19,1090,Rodney Owens,rodney.owens41@gmail.com,Lagos,2026-02-04,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9429,5240,2026-03-10,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
+9277,5154,2026-07-15,1071,Thomas Pierce,thomas.pierce61@yahoo.com,Abuja,2024-09-05,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,4,248000.0,False
+9274,5152,2026-08-30,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Returned,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9453,5254,2026-03-17,1126,Leslie Walton,leslie.walton72@yahoo.com,Lagos,2024-12-28,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9093,5050,2026-05-30,1031,Veronica Bowman,veronica.bowman92@yahoo.com,Port Harcourt,2026-06-16,Online,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9231,5127,2026-02-05,1066,Kyle Brown,kyle.brown8@gmail.com,Port Harcourt,2025-10-08,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,4,74000.0,False
+9272,5150,2026-09-04,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9381,5213,2026-07-03,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9148,5084,2026-03-27,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,3,186000.0,False
+9456,5256,2026-04-14,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,3,31672.0,True
+9317,5175,2026-03-17,1087,Thomas Mueller,thomas.mueller92@yahoo.com,Port Harcourt,2025-11-08,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9075,5038,2026-03-24,1021,Janet Williams,janet.williams59@outlook.com,Abuja,2024-10-11,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,4615.0,True
+9461,5257,2026-05-24,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,In-store,Completed,108,Led Desk Lamp,Home,7200.0,2,13657.0,True
+9415,5230,2026-05-18,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9217,5120,2026-06-08,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,8921.0,True
+9201,5112,2026-04-10,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,5,31500.0,False
+9303,5170,2026-04-15,1082,Jeremy Whitehead,jeremy.whitehead31@gmail.com,Lagos,2026-02-10,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,5,160000.0,False
+9388,5218,2026-03-13,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,2,37000.0,False
+9013,5008,2026-06-22,1004,Patricia Miller,patricia.miller76@yahoo.com,Port Harcourt,2024-03-30,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,2,12600.0,False
+9283,5158,2026-06-25,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9439,5245,2026-06-13,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9462,5257,2026-05-24,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9352,5199,2026-02-26,1099,Andrea Williams,andrea.williams92@yahoo.com,Lagos,2025-11-16,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9336,5190,2026-03-30,1094,Michelle Wright,michelle.wright87@gmail.com,Port Harcourt,2024-03-10,In-store,Completed,115,Office Chair,Home,45000.0,5,225000.0,False
+9218,5121,2026-04-23,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9433,5242,2026-09-10,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,In-store,Cancelled,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9005,5004,2026-01-28,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-09-07,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9362,5203,2026-04-09,1102,Melinda Martin,melinda.martin10@gmail.com,Abuja,2026-02-08,Online,Cancelled,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9281,5157,2026-06-21,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9145,5081,2026-04-03,1049,Wendy Rice,wendy.rice78@gmail.com,Port Harcourt,2025-06-03,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9055,5028,2026-07-01,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,24696.0,True
+9164,5092,2026-02-09,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
+9200,5111,2026-04-05,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9213,5117,2026-03-30,1058,Rita Harrell,rita.harrell78@yahoo.com,Abuja,2025-06-24,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9358,5201,2026-01-31,1101,Tanya House,tanya.house39@yahoo.com,Port Harcourt,2025-10-22,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,2,12600.0,False
+9223,5123,2026-08-10,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9107,5058,2026-06-22,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9300,5168,2026-06-07,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9044,5022,2026-07-07,1011,Linda Wolfe,linda.wolfe28@yahoo.com,Abuja,2024-06-08,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9463,5258,2026-08-31,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9305,5171,2026-08-07,1082,Jeremy Whitehead,jeremy.whitehead31@gmail.com,Lagos,2026-02-10,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,2,136948.0,True
+9252,5138,2026-04-07,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9307,5172,2026-08-08,1083,Michele Jones,michele.jones62@gmail.com,Abuja,2025-05-12,In-store,Returned,104,Bluetooth Wireless Earbuds,Electronics,15500.0,4,53299.0,True
+9083,5042,2026-03-30,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9167,5095,2026-06-06,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9195,5108,2026-04-20,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,4,25200.0,False
+9346,5196,2026-03-18,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9125,5067,2026-08-05,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9390,5218,2026-03-13,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9102,5055,2026-03-25,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,4,58000.0,False
+9413,5229,2026-03-22,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9077,5040,2026-01-30,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,108,Led Desk Lamp,Home,7200.0,2,14400.0,False
+9133,5072,2026-01-28,1044,Whitney Hicks,whitney.hicks83@yahoo.com,Abuja,2026-02-26,Online,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9309,5172,2026-08-08,1083,Michele Jones,michele.jones62@gmail.com,Abuja,2025-05-12,In-store,Returned,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9151,5085,2026-08-15,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,21999.0,True
+9244,5135,2026-08-28,1069,Chad Hodges,chad.hodges70@gmail.com,Abuja,2024-08-07,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9027,5014,2026-04-18,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
+9113,5061,2026-08-29,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9291,5164,2026-03-08,1077,Samuel Holmes,samuel.holmes25@gmail.com,Lagos,2024-09-11,Online,Returned,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9276,5153,2026-06-22,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Cancelled,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9383,5214,2026-07-20,1112,Amy Adkins,amy.adkins35@yahoo.com,Port Harcourt,2024-06-08,In-store,Cancelled,104,Bluetooth Wireless Earbuds,Electronics,15500.0,5,77500.0,False
+9028,5014,2026-04-18,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,4,47200.0,False
+9380,5212,2026-07-27,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9339,5192,2026-01-06,1095,James West,james.west73@gmail.com,Abuja,2024-05-02,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9111,5059,2026-06-15,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9436,5243,2026-06-07,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,4,248000.0,False
+9205,5113,2026-01-23,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Cancelled,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9191,5106,2026-03-11,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-03-09,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9417,5232,2026-02-14,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9206,5113,2026-01-23,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Cancelled,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9263,5145,2026-08-25,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Returned,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9394,5220,2026-09-01,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9057,5028,2026-07-01,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,5,31500.0,False
+9149,5084,2026-03-27,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,23600.0,False
+9088,5047,2026-04-08,1028,Deborah Lynch,deborah.lynch42@gmail.com,Lagos,2025-12-02,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9091,5048,2026-08-12,1029,George Daniel,george.daniel5@yahoo.com,Lagos,2026-04-21,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,3,96000.0,False
+9098,5053,2026-05-25,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9059,5029,2026-05-28,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,4,47200.0,False
+9117,5062,2026-09-09,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9370,5208,2026-08-03,1105,Nicholas Galloway,nicholas.galloway45@gmail.com,Abuja,2024-05-15,Online,Completed,115,Office Chair,Home,45000.0,4,180000.0,False
+9070,5035,2026-02-28,1018,Nicholas Arnold,nicholas.arnold9@gmail.com,Lagos,2025-12-22,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9322,5180,2026-12-03,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,Online,Completed,105,Sonic Standing Fan,Home,24500.0,4,98000.0,False
+9293,5165,2026-02-07,1078,David Walker,david.walker18@yahoo.com,Port Harcourt,2025-04-04,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9311,5173,2026-07-12,1085,Jason Anderson,jason.anderson34@yahoo.com,Lagos,2025-02-03,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,2,37000.0,False
+9367,5206,2026-04-12,1105,Nicholas Galloway,nicholas.galloway45@gmail.com,Abuja,2024-05-15,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9214,5118,2026-02-13,1062,Kimberly Moreno,kimberly.moreno58@gmail.com,Abuja,2025-06-13,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,23600.0,False
+9306,5171,2026-08-07,1082,Jeremy Whitehead,jeremy.whitehead31@gmail.com,Lagos,2026-02-10,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9266,5146,2026-08-31,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9412,5229,2026-03-22,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,In-store,Completed,115,Office Chair,Home,45000.0,3,135000.0,False
+9448,5251,2026-03-23,1122,Alexandra Donovan,alexandra.donovan71@gmail.com,Abuja,2025-08-19,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9341,5193,2026-06-13,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,In-store,Completed,115,Office Chair,Home,45000.0,1,39507.0,True
+9421,5234,2026-01-20,1117,Brooke Leonard,brooke.leonard43@gmail.com,Lagos,2024-01-04,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,1,60149.0,True
+9308,5172,2026-08-08,1083,Michele Jones,michele.jones62@gmail.com,Abuja,2025-05-12,In-store,Returned,115,Office Chair,Home,45000.0,4,180000.0,False
+9262,5145,2026-08-25,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Returned,112,Assorted Toiletries Pack,Essentials,6300.0,4,25200.0,False
+9041,5020,2026-06-23,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,2,12600.0,False
+9226,5124,2026-08-14,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,3,555000.0,False
+9092,5049,2026-05-16,1030,Frank Gray,frank.gray9@gmail.com,Abuja,2024-10-01,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9135,5074,2026-03-21,1044,Whitney Hicks,whitney.hicks83@yahoo.com,Abuja,2026-02-26,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,2,34496.0,True
+9090,5047,2026-04-08,1028,Deborah Lynch,deborah.lynch42@gmail.com,Lagos,2025-12-02,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9232,5127,2026-02-05,1066,Kyle Brown,kyle.brown8@gmail.com,Port Harcourt,2025-10-08,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9103,5056,2026-03-11,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,108,Led Desk Lamp,Home,7200.0,2,14043.0,True
+9313,5173,2026-12-07,1085,Jason Anderson,jason.anderson34@yahoo.com,Lagos,2025-02-03,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9294,5165,2026-02-07,1078,David Walker,david.walker18@yahoo.com,Port Harcourt,2025-04-04,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9171,5096,2026-08-20,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9310,5173,2026-07-12,1085,Jason Anderson,jason.anderson34@yahoo.com,Lagos,2025-02-03,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9445,5248,2026-08-15,1121,Robert Silva,robert.silva70@gmail.com,Port Harcourt,2024-06-01,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,5356.0,True
+9466,5259,2026-04-06,1128,Yolanda Ferrell,yolanda.ferrell23@yahoo.com,Lagos,2026-03-30,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9430,5240,2026-03-10,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,4,62000.0,False
+9015,5009,2026-01-12,1005,Robert Johnson,robert.johnson12@gmail.com,Lagos,2024-01-31,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,4,1680000.0,False
+9423,5235,2026-04-08,1117,Brooke Leonard,brooke.leonard43@gmail.com,Lagos,2024-04-01,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,17202.0,True
+9434,5242,2026-09-10,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,In-store,Cancelled,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9121,5065,2026-05-31,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,5722.0,True
+9043,5022,2026-07-07,1011,Linda Wolfe,linda.wolfe28@yahoo.com,Abuja,2024-08-06,Online,Completed,115,Office Chair,Home,45000.0,3,135000.0,False
+9197,5109,2026-08-09,1055,Shawn Mckay,shawn.mckay63@gmail.com,Lagos,2026-01-19,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9034,5018,2026-09-01,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,370000.0,False
+9446,5249,2026-07-07,1122,Alexandra Donovan,alexandra.donovan71@gmail.com,Abuja,2025-08-19,Online,Completed,115,Office Chair,Home,45000.0,1,41055.0,True
+9404,5225,2026-02-21,1114,Wesley Farrell,wesley.farrell82@yahoo.com,Lagos,2025-12-04,Online,Completed,108,Led Desk Lamp,Home,7200.0,3,21600.0,False
+9267,5146,2026-08-31,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,1,57114.0,True
+9318,5176,2026-04-03,1088,Lindsey Lee,lindsey.lee38@gmail.com,Lagos,2024-07-13,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,3,86979.0,True
+9286,5160,2026-08-13,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9368,5207,2026-02-03,1105,Nicholas Galloway,nicholas.galloway45@gmail.com,Abuja,2024-05-15,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9017,5009,2026-01-12,1005,Robert Johnson,robert.johnson12@gmail.com,Lagos,2024-01-31,Online,Completed,107,Memory Foam Pillow,Home,9500.0,4,38000.0,False
+9159,5090,2026-08-09,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9067,5033,2026-06-11,1013,Susan Rogers,susan.rogers45@outlook.com,Abuja,2026-05-17,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9399,5223,2026-08-24,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Returned,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9416,5231,2026-02-25,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,5,68886.0,True
+9120,5064,2026-10-09,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9451,5252,2026-01-24,1123,James Moran,james.moran6@yahoo.com,Abuja,2024-05-10,Online,Cancelled,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9066,5033,2026-06-11,1013,Susan Rogers,susan.rogers45@outlook.com,Abuja,2026-05-17,Online,Completed,115,Office Chair,Home,45000.0,3,135000.0,False
+9441,5246,2026-05-31,1120,Brooke Harvey,brooke.harvey15@gmail.com,Port Harcourt,2024-01-10,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9019,5010,2026-04-19,1005,Robert Johnson,robert.johnson12@gmail.com,Lagos,2024-01-31,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9154,5086,2026-05-20,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Returned,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9360,5202,2026-03-23,1102,Melinda Martin,melinda.martin10@gmail.com,Abuja,2026-02-08,Online,Completed,105,Sonic Standing Fan,Home,24500.0,5,122500.0,False
+9257,5140,2026-09-07,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9295,5166,2026-05-06,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,3,55500.0,False
+9273,5151,2026-08-14,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Returned,115,Office Chair,Home,45000.0,4,180000.0,False
+9134,5073,2026-06-09,1044,Whitney Hicks,whitney.hicks83@yahoo.com,Abuja,2026-02-26,Online,Completed,115,Office Chair,Home,45000.0,2,79697.0,True
+9254,5139,2026-07-14,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9271,5150,2026-09-04,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,4,58000.0,False
+9162,5091,2026-03-26,1052,Erin Herrera,erin.herrera63@gmail.com,Port Harcourt,2024-11-27,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9287,5161,2026-06-09,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9340,5192,2026-01-06,1095,James West,james.west73@gmail.com,Abuja,2024-05-02,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,2,12600.0,False
+9355,5200,2026-04-04,1100,Yvette Huff,yvette.huff51@gmail.com,Lagos,2024-09-28,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,3,43500.0,False
+9325,5182,2026-03-26,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9406,5227,2026-04-07,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,5,72500.0,False
+9002,5002,2026-03-20,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-09-07,In-store,Returned,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9225,5123,2026-08-10,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9208,5114,2026-05-07,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,5,310000.0,False
+9118,5063,2026-01-18,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9403,5225,2026-02-21,1114,Wesley Farrell,wesley.farrell82@yahoo.com,Lagos,2025-12-04,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9338,5191,2026-03-21,1095,James West,james.west73@gmail.com,Abuja,2024-05-02,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9345,5195,2026-05-06,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9265,5146,2026-08-31,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9275,5153,2026-06-22,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Cancelled,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9071,5036,2026-05-06,1021,Janet Williams,janet.williams59@outlook.com,Abuja,2024-11-10,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9129,5069,2026-05-22,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9334,5188,2026-06-23,1092,Tracey Garcia,tracey.garcia8@outlook.com,Port Harcourt,2024-06-10,In-store,Cancelled,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9099,5053,2026-05-25,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9349,5197,2026-04-19,1098,Scott Callahan,scott.callahan41@yahoo.com,Port Harcourt,2025-06-19,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9022,5011,2026-07-28,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,2,37000.0,False
+9194,5107,2026-07-30,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-03-09,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9006,5004,2026-01-28,1002,Joshua Walker,joshua.walker29@gmail.com,Abuja,2024-07-09,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9391,5219,2026-03-21,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,370000.0,False
+9314,5174,2026-06-07,1087,Thomas Mueller,thomas.mueller92@yahoo.com,Port Harcourt,2025-11-08,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,3,555000.0,False
+9136,5075,2026-05-16,1045,Christopher Williams,christopher.williams56@gmail.com,Lagos,,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9414,5230,2026-05-18,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,Online,Completed,108,Led Desk Lamp,Home,7200.0,3,21600.0,False
+9359,5201,2026-01-31,1101,Tanya House,tanya.house39@yahoo.com,Port Harcourt,2025-10-22,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,3,96000.0,False
+9199,5111,2026-04-05,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9395,5221,2026-05-28,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,3,555000.0,False
+9204,5113,2026-01-23,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Cancelled,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9068,5034,2026-07-29,1017,Amanda Dudley,amanda.dudley47@outlook.com,Port Harcourt,2026-06-25,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,4,740000.0,False
+9224,5123,2026-10-08,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,2,31000.0,False
+9128,5069,2026-05-22,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9144,5080,2026-01-20,1049,Wendy Rice,wendy.rice78@gmail.com,Port Harcourt,2025-06-03,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9140,5077,2026-04-21,1047,Laura Henderson,laura.henderson98@gmail.com,Abuja,2025-05-27,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9219,5122,2026-08-09,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9361,5203,2026-09-04,1102,Melinda Martin,melinda.martin10@gmail.com,Abuja,2026-02-08,Online,Cancelled,115,Office Chair,Home,45000.0,3,135000.0,False
+9158,5089,2026-06-15,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9095,5052,2026-03-19,1033,Megan Parsons,megan.parsons19@yahoo.com,Port Harcourt,2025-04-14,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,2,31000.0,False
+9256,5139,2026-07-14,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9447,5250,2026-08-10,1122,Alexandra Donovan,alexandra.donovan71@gmail.com,Abuja,2025-08-19,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9132,5071,2026-07-12,1041,Anna Baker,anna.baker60@outlook.com,Abuja,,Online,Returned,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9227,5125,2026-07-06,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,370000.0,False
+9040,5020,2026-06-23,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,3,32542.0,True
+9454,5254,2026-03-17,1126,Leslie Walton,leslie.walton72@yahoo.com,Lagos,2024-12-28,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9464,5259,2026-04-06,1128,Yolanda Ferrell,yolanda.ferrell23@yahoo.com,Lagos,2026-03-30,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9190,5105,2026-03-17,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,3,43500.0,False
+9422,5234,2026-01-20,1117,Brooke Leonard,brooke.leonard43@gmail.com,Lagos,2024-01-04,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9249,5138,2026-04-07,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,115,Office Chair,Home,45000.0,4,180000.0,False
+9039,5020,2026-06-23,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9243,5134,2026-05-04,1069,Chad Hodges,chad.hodges70@gmail.com,Abuja,2024-08-07,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9389,5218,2026-03-13,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,24975.0,True
+9139,5077,2026-04-21,1047,Laura Henderson,laura.henderson98@gmail.com,Abuja,2025-05-27,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9023,5012,2026-01-20,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-12-07,In-store,Completed,115,Office Chair,Home,45000.0,2,90000.0,False
+9160,5090,2026-08-09,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,29525.0,True
+9026,5014,2026-04-18,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9184,5102,2026-01-22,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9241,5133,2026-04-28,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,3,186000.0,False
+9014,5008,2026-06-22,1004,Patricia Miller,patricia.miller76@yahoo.com,Port Harcourt,2024-03-30,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9146,5082,2026-03-28,1049,Wendy Rice,wendy.rice78@gmail.com,Port Harcourt,2025-06-03,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9315,5174,2026-06-07,1087,Thomas Mueller,thomas.mueller92@yahoo.com,Port Harcourt,2025-11-08,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9079,5040,2026-01-30,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9321,5179,2026-05-14,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9396,5221,2026-05-28,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,In-store,Completed,108,Led Desk Lamp,Home,7200.0,3,21600.0,False
+9369,5208,2026-08-03,1105,Nicholas Galloway,nicholas.galloway45@gmail.com,Abuja,2024-05-15,Online,Completed,108,Led Desk Lamp,Home,7200.0,5,36000.0,False
+9053,5026,2026-05-02,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,2,12600.0,False
+9431,5241,2026-03-02,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9035,5018,2026-09-01,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,1,62000.0,False
+9335,5189,2026-07-26,1093,Richard Morgan,richard.morgan24@gmail.com,Lagos,2026-05-21,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9460,5257,2026-05-24,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-06-02,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,2,31000.0,False
+9185,5102,2026-01-22,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,2,157000.0,False
+9312,5173,2026-07-12,1085,Jason Anderson,jason.anderson34@yahoo.com,Lagos,2025-02-03,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,3,33521.0,True
+9326,5182,2026-03-26,1089,Collin Jordan,collin.jordan95@outlook.com,Lagos,2025-08-16,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9188,5105,2026-03-17,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9285,5160,2026-08-13,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,8630.0,True
+9435,5243,2026-06-07,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,115,Office Chair,Home,45000.0,3,125045.0,True
+9166,5094,2026-06-09,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9375,5211,2026-08-07,1111,Tanya Riley,tanya.riley14@outlook.com,Lagos,2026-06-30,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,17288.0,True
+9299,5167,2026-06-14,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,In-store,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9024,5013,,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9442,5247,2026-01-09,1120,Brooke Harvey,brooke.harvey15@gmail.com,Port Harcourt,2024-01-10,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,22347.0,True
+9348,5197,2026-04-19,1098,Scott Callahan,scott.callahan41@yahoo.com,Port Harcourt,2025-06-19,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,9265.0,True
+9401,5224,2026-08-19,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-03-08,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9183,5102,2026-01-22,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,115,Office Chair,Home,45000.0,2,90000.0,False
+9344,5195,2026-05-06,1097,John Leblanc,john.leblanc85@outlook.com,Lagos,2025-03-05,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,2,23600.0,False
+9042,5021,2026-04-01,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9357,5201,2026-01-31,1101,Tanya House,tanya.house39@yahoo.com,Port Harcourt,2025-10-22,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,3,35400.0,False
+9237,5130,2026-06-11,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,2,157000.0,False
+9465,5259,2026-04-06,1128,Yolanda Ferrell,yolanda.ferrell23@yahoo.com,Lagos,2026-03-30,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9351,5198,2026-02-04,1099,Andrea Williams,andrea.williams92@yahoo.com,Lagos,2025-11-16,Online,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9076,5039,2026-06-11,1024,Craig Ramirez,craig.ramirez10@outlook.com,Port Harcourt,2025-10-25,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9032,5017,2026-04-08,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,Online,Cancelled,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9350,5198,2026-02-04,1099,Andrea Williams,andrea.williams92@yahoo.com,Lagos,2025-11-16,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9046,5024,2026-03-25,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,62288.0,True
+9109,5059,2026-06-15,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,23997.0,True
+9106,5057,2026-07-25,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,Online,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9150,5085,2026-08-15,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9030,5015,2026-05-05,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9182,5102,2026-01-22,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9110,5059,2026-06-15,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,1,5200.0,False
+9123,5066,2026-04-03,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,181266.0,True
+9444,5247,2026-09-01,1120,Brooke Harvey,brooke.harvey15@gmail.com,Port Harcourt,2024-01-10,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,4,20800.0,False
+9105,5056,2026-11-03,1034,Jeremy Johnson,jeremy.johnson96@outlook.com,Lagos,2024-09-09,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9061,5030,2026-05-23,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
+9147,5083,2026-08-20,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9084,5043,2026-05-27,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9316,5174,2026-06-07,1087,Thomas Mueller,thomas.mueller92@yahoo.com,Port Harcourt,2025-08-11,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,2,49000.0,False
+9382,5214,2026-07-20,1112,Amy Adkins,amy.adkins35@yahoo.com,Port Harcourt,2024-06-08,In-store,Cancelled,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9409,5228,2026-02-06,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9228,5126,2026-05-10,1064,Andrew Hickman,andrew.hickman71@gmail.com,Lagos,2025-08-25,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9418,5232,2026-02-14,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,Online,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,1,14500.0,False
+9152,5086,2026-05-20,1051,Alexander Le,alexander.le68@gmail.com,Port Harcourt,2026-03-08,Online,Returned,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9001,5001,2026-03-10,1001,Danielle Johnson,danielle.johnson4@outlook.com,Port Harcourt,2024-04-24,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,3,555000.0,False
+9268,5147,2026-08-25,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,2,157000.0,False
+9419,5233,2026-02-26,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,4,20800.0,False
+9089,5047,2026-08-04,1028,Deborah Lynch,deborah.lynch42@gmail.com,Lagos,2025-12-02,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,4,314000.0,False
+9078,5040,2026-01-30,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,5,31500.0,False
+9269,5148,2026-09-04,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Returned,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9124,5067,2026-08-05,1036,Jason Hahn,jason.hahn52@yahoo.com,Abuja,2025-08-20,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9298,5167,2026-06-14,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,71886.0,True
+9096,5052,2026-03-19,1033,Megan Parsons,megan.parsons19@yahoo.com,Port Harcourt,2025-04-14,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9459,5257,2026-05-24,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,In-store,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9012,5008,2026-06-22,1004,Patricia Miller,patricia.miller76@yahoo.com,Port Harcourt,2024-03-30,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
+9115,5062,2026-09-09,1035,Leslie Adams,leslie.adams96@outlook.com,Port Harcourt,2024-09-26,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9332,5186,2026-05-10,1091,Jessica Nunez,jessica.nunez62@outlook.com,Lagos,2025-08-21,In-store,Returned,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,3,555000.0,False
+9258,5141,2026-07-15,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9220,5122,2026-08-09,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,Online,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9253,5139,2026-07-14,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9353,5199,2026-02-26,1099,Andrea Williams,andrea.williams92@yahoo.com,Lagos,2025-11-16,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,117895.0,True
+9452,5253,2026-07-06,1123,James Moran,james.moran6@yahoo.com,Abuja,2024-05-10,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9179,5100,2026-04-19,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9411,5229,2026-03-22,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-11-10,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,1,32000.0,False
+9279,5155,2026-01-18,1071,Thomas Pierce,thomas.pierce61@yahoo.com,Abuja,2024-09-05,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,78500.0,False
+9020,5011,2026-07-28,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,In-store,Completed,109,Basmati Rice 10Kg,Essentials,14500.0,2,29000.0,False
+9356,5200,2026-04-04,1100,Yvette Huff,yvette.huff51@gmail.com,Lagos,2024-09-28,Online,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9170,5096,2026-08-20,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,4,248000.0,False
+9240,5132,2026-08-24,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9278,5155,2026-01-18,1071,Thomas Pierce,thomas.pierce61@yahoo.com,Abuja,2024-09-05,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9161,5091,2026-03-26,1052,Erin Herrera,erin.herrera63@gmail.com,Port Harcourt,2024-11-27,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9074,5038,2026-03-24,1021,Janet Williams,janet.williams59@outlook.com,Abuja,2024-10-11,Online,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,370000.0,False
+9018,5010,2026-04-19,1005,Robert Johnson,robert.johnson12@gmail.com,Lagos,2024-01-31,Online,Completed,108,Led Desk Lamp,Home,7200.0,2,12490.0,True
+9063,5031,2026-06-19,1013,Susan Rogers,susan.rogers45@outlook.com,Abuja,2026-05-17,In-store,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,1,420000.0,False
+9250,5138,2026-07-04,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9229,5126,2026-05-10,1064,Andrew Hickman,andrew.hickman71@gmail.com,Lagos,2025-08-25,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,3,15600.0,False
+9239,5132,2026-08-24,1068,Christopher Tucker,christopher.tucker36@outlook.com,Port Harcourt,2024-08-31,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,2,12600.0,False
+9230,5126,2026-05-10,1064,Andrew Hickman,andrew.hickman71@gmail.com,Lagos,2025-08-25,Online,Completed,115,Office Chair,Home,45000.0,3,135000.0,False
+9319,5177,2026-05-23,1088,Lindsey Lee,lindsey.lee38@gmail.com,Lagos,2024-07-13,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9284,5159,2026-09-07,1074,Amber Blair,amber.blair94@gmail.com,Abuja,2026-06-03,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,2,157000.0,False
+9048,5024,2026-03-25,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,3,35400.0,False
+9251,5138,2026-07-04,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,2,17568.0,True
+9080,5041,2026-08-14,1025,Cynthia Diaz,cynthia.diaz69@outlook.com,Port Harcourt,2024-06-24,Online,Completed,114,Microwave Oven 25L,Electronics,78500.0,4,314000.0,False
+9296,5166,2026-05-06,1081,Chad Welch,chad.welch70@gmail.com,Lagos,2025-10-29,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9458,5256,2026-04-14,1127,Charles Ellis,charles.ellis20@gmail.com,Port Harcourt,2026-02-06,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,2,37000.0,False
+9021,5011,2026-07-28,1008,Debra Gardner,debra.gardner54@gmail.com,Port Harcourt,2025-07-12,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9425,5236,2026-06-15,1118,Joe Wilson,joe.wilson21@outlook.com,Port Harcourt,2024-09-25,Online,Completed,102,Hp Pavilion Laptop,Electronics,420000.0,4,1680000.0,False
+9141,5078,2026-07-15,1048,Bryan James,bryan.james81@yahoo.com,Port Harcourt,2024-04-18,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9193,5106,2026-03-11,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,Online,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9131,5070,2026-01-22,1040,Joseph Wright,joseph.wright9@yahoo.com,Abuja,2025-09-02,Online,Completed,103,Anker Power Bank 20000Mah,Electronics,18500.0,1,18500.0,False
+9216,5120,2026-06-08,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,105,Sonic Standing Fan,Home,24500.0,5,122500.0,False
+9245,5136,2026-10-07,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,106,Non-Stick Cookware Set,Home,32000.0,2,64000.0,False
+9364,5204,2026-03-10,1103,Todd Lewis,todd.lewis73@gmail.com,Abuja,2025-09-28,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,4,248000.0,False
+9060,5030,2026-05-23,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,In-store,Completed,104,Bluetooth Wireless Earbuds,Electronics,15500.0,1,15500.0,False
+9222,5123,2026-08-10,1063,Aaron Nguyen,aaron.nguyen9@yahoo.com,Lagos,2024-08-18,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9177,5099,2026-07-22,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,4,25200.0,False
+9450,5252,2026-01-24,1123,James Moran,james.moran6@yahoo.com,Abuja,2024-05-10,Online,Cancelled,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,1,185000.0,False
+9056,5028,2026-07-01,1012,Matthew Moore,matthew.moore49@gmail.com,Lagos,2024-04-04,Online,Completed,105,Sonic Standing Fan,Home,24500.0,1,24500.0,False
+9292,5164,2026-03-08,1077,Samuel Holmes,samuel.holmes25@gmail.com,Lagos,2024-09-11,Online,Returned,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9255,5139,2026-07-14,1070,Katie Anderson,katie.anderson74@outlook.com,Port Harcourt,2026-06-22,Online,Completed,107,Memory Foam Pillow,Home,9500.0,2,19000.0,False
+9408,5228,2026-02-06,1116,Christopher Lopez,christopher.lopez55@yahoo.com,Lagos,2025-10-11,In-store,Completed,114,Microwave Oven 25L,Electronics,78500.0,1,75093.0,True
+9386,5217,2026-06-10,1113,Brian Silva,brian.silva92@yahoo.com,Port Harcourt,2024-08-03,In-store,Completed,107,Memory Foam Pillow,Home,9500.0,1,9500.0,False
+9437,5244,2026-08-09,1119,Pamela Sanchez,pamela.sanchez91@yahoo.com,Abuja,2025-07-18,Online,Completed,111,Detergent Powder 4Kg,Essentials,5200.0,2,10400.0,False
+9198,5110,2026-01-18,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,Online,Completed,110,Vegetable Oil 5L,Essentials,11800.0,1,11800.0,False
+9069,5035,2026-02-28,1018,Nicholas Arnold,nicholas.arnold9@gmail.com,Lagos,2025-12-22,In-store,Completed,101,Samsung 43-Inch Smart Tv,Electronics,185000.0,2,350877.0,True
+9211,5116,2026-08-13,1057,Vincent White,vincent.white71@gmail.com,Port Harcourt,2025-05-01,In-store,Completed,113,Air Fryer 5L,Electronics,62000.0,1,53701.0,True
+9233,5128,2026-06-01,1067,Natalie Arroyo,natalie.arroyo43@gmail.com,Lagos,2024-02-02,Online,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9202,5112,2026-04-10,1056,Nancy Baker,nancy.baker17@gmail.com,Port Harcourt,,In-store,Completed,108,Led Desk Lamp,Home,7200.0,1,7200.0,False
+9169,5096,2026-08-20,1053,Joseph Davidson,joseph.davidson40@gmail.com,Lagos,2025-01-06,In-store,Completed,115,Office Chair,Home,45000.0,1,45000.0,False
+9186,5103,2026-08-07,1054,Daniel Graham,daniel.graham73@gmail.com,Lagos,2024-09-03,In-store,Completed,106,Non-Stick Cookware Set,Home,32000.0,3,96000.0,False
+9036,5019,2026-03-07,1010,Lisa Smith,lisa.smith55@yahoo.com,Lagos,2025-12-15,In-store,Completed,112,Assorted Toiletries Pack,Essentials,6300.0,1,6300.0,False
+9130,5070,2026-01-22,1040,Joseph Wright,joseph.wright9@yahoo.com,Abuja,2025-09-02,Online,Completed,113,Air Fryer 5L,Electronics,62000.0,2,124000.0,False
