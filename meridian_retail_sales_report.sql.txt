@@ -1,0 +1,150 @@
+-- ============================================================
+-- 1. TOTAL REVENUE & TREND
+-- ============================================================
+WITH monthly_revenue AS (
+    SELECT
+        DATE_TRUNC('month', order_date) AS month,
+        SUM(line_total) AS total_revenue
+    FROM meridian_retail_sales_cleaned
+    WHERE order_status = 'Completed'
+      AND order_date IS NOT NULL
+    GROUP BY DATE_TRUNC('month', order_date)
+)
+SELECT
+    month,
+    total_revenue,
+    LAG(total_revenue) OVER (ORDER BY month) AS previous_month_revenue,
+    ROUND(
+        (total_revenue - LAG(total_revenue) OVER (ORDER BY month))
+        / LAG(total_revenue) OVER (ORDER BY month) * 100, 2
+    ) AS mom_pct_change
+FROM monthly_revenue
+ORDER BY month;
+
+
+-- ============================================================
+-- 2. REVENUE BY REGION
+-- ============================================================
+SELECT
+    region,
+    SUM(line_total) AS total_revenue,
+    COUNT(DISTINCT order_id) AS total_orders,
+    ROUND(SUM(line_total) / COUNT(DISTINCT order_id), 2) AS avg_order_value
+FROM meridian_retail_sales_cleaned
+WHERE order_status = 'Completed'
+GROUP BY region
+ORDER BY total_revenue DESC;
+
+-- ============================================================
+-- 3. REVENUE BY CATEGORY
+-- ============================================================
+SELECT
+    category,
+    SUM(line_total) AS total_revenue,
+    SUM(quantity) AS total_units_sold,
+    ROUND(SUM(line_total) * 100.0 / SUM(SUM(line_total)) OVER (), 2) AS pct_of_total_revenue
+FROM meridian_retail_sales_cleaned
+WHERE order_status = 'Completed'
+GROUP BY category
+ORDER BY total_revenue DESC;
+
+-- ============================================================
+-- 4. TOP 10 CUSTOMERS
+-- ============================================================
+SELECT
+    customer_id,
+    customer_name,
+    region,
+    SUM(line_total) AS total_spent,
+    COUNT(DISTINCT order_id) AS total_orders
+FROM meridian_retail_sales_cleaned
+WHERE order_status = 'Completed'
+GROUP BY customer_id, customer_name, region
+ORDER BY total_spent DESC
+LIMIT 10;
+
+-- ============================================================
+-- 5. CUSTOMER CONCENTRATION (TOP 20%)
+-- ============================================================
+WITH customer_revenue AS (
+    SELECT
+        customer_id,
+        SUM(line_total) AS total_spent
+    FROM meridian_retail_sales_cleaned
+    WHERE order_status = 'Completed'
+    GROUP BY customer_id
+),
+ranked_customers AS (
+    SELECT
+        customer_id,
+        total_spent,
+        NTILE(5) OVER (ORDER BY total_spent DESC) AS spend_quintile
+    FROM customer_revenue
+)
+SELECT
+    CASE WHEN spend_quintile = 1 THEN 'Top 20%' ELSE 'Remaining 80%' END AS customer_group,
+    COUNT(*) AS num_customers,
+    SUM(total_spent) AS group_revenue,
+    ROUND(SUM(total_spent) * 100.0 / SUM(SUM(total_spent)) OVER (), 2) AS pct_of_total_revenue
+FROM ranked_customers
+GROUP BY 1;
+
+-- ============================================================
+-- 6. AT-RISK / LAPSED CUSTOMERS
+-- ============================================================
+WITH customer_last_order AS (
+    SELECT
+        customer_id,
+        customer_name,
+        MAX(order_date) AS last_order_date
+    FROM meridian_retail_sales_cleaned
+    WHERE order_date IS NOT NULL
+    GROUP BY customer_id, customer_name
+)
+SELECT
+    customer_id,
+    customer_name,
+    last_order_date,
+    CURRENT_DATE - last_order_date AS days_since_last_order,
+    CASE
+        WHEN CURRENT_DATE - last_order_date > 90 THEN 'Lapsed (90+ days)'
+        WHEN CURRENT_DATE - last_order_date > 60 THEN 'At Risk (60-90 days)'
+        ELSE 'Active'
+    END AS customer_status
+FROM customer_last_order
+ORDER BY days_since_last_order DESC;
+
+-- ============================================================
+-- 7. AVERAGE ORDER VALUE BY CHANNEL
+-- ============================================================
+WITH order_level AS (
+    SELECT
+        order_id,
+        channel,
+        SUM(line_total) AS order_total
+    FROM meridian_retail_sales_cleaned
+    WHERE order_status = 'Completed'
+    GROUP BY order_id, channel
+)
+SELECT
+    channel,
+    COUNT(*) AS total_orders,
+    ROUND(AVG(order_total), 2) AS avg_order_value
+FROM order_level
+GROUP BY channel
+ORDER BY avg_order_value DESC;
+
+-- ============================================================
+-- 8. CHANNEL PERFORMANCE
+-- ============================================================
+SELECT
+    channel,
+    SUM(line_total) AS total_revenue,
+    COUNT(DISTINCT order_id) AS total_orders,
+    ROUND(SUM(line_total) * 100.0 / SUM(SUM(line_total)) OVER (), 2) AS pct_of_revenue
+FROM meridian_retail_sales_cleaned
+WHERE order_status = 'Completed'
+GROUP BY channel
+ORDER BY total_revenue DESC;
+
+
